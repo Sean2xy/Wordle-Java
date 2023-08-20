@@ -1,0 +1,11 @@
+wodle\GuessedWord.class
+wodle\GameModel$ModelChangeEvent.class
+wodle\GameController.class
+wodle\GameModel.class
+wodle\GuessedLetter.class
+wodle\WelcomeWindow$1.class
+wodle\GameManager.class
+wodle\TxtFileDictManager.class
+wodle\GameView.class
+wodle\App.class
+wodle\WelcomeWindow.class
